@@ -1,0 +1,154 @@
+[
+  {
+    "template": "template1",
+    "hero": {
+      "name": "Sumit Krishnan",
+      "title": "Drone Pilot Trainer & Aerospace Researcher",
+      "tagline": "Training the next generation of drone pilots and building safer skies.",
+      "profileImageUrl": "https://picsum.photos/seed/sumit/400/400"
+    },
+    "about": {
+      "bio": "12+ years of experience in drone operations, safety training and curriculum development. I design practical flight workshops and research UAV applications in agriculture and inspection.",
+      "email": "sumit.krishnan@example.com",
+      "phone": "+91 98765 43210",
+      "location": "Hyderabad, India",
+      "socials": {
+        "linkedin": "https://linkedin.com/in/sumitkr",
+        "twitter": "https://twitter.com/sumit_drone"
+      }
+    },
+    "skills": [
+      "Drone Training",
+      "Flight Safety",
+      "UAV Hardware",
+      "Curriculum Design",
+      "Aerial Mapping"
+    ],
+    "services": [
+      {
+        "title": "Drone Pilot Training",
+        "description": "Structured courses from basics to commercial licensing prep."
+      },
+      {
+        "title": "Aerial Survey Services",
+        "description": "Agriculture & inspection surveys using multispectral sensors."
+      },
+      {
+        "title": "Consulting & Workshops",
+        "description": "Custom workshops for institutions and industry teams."
+      }
+    ],
+    "portfolio": [
+      {
+        "title": "Precision Ag Mapping",
+        "imageUrl": "https://picsum.photos/seed/ag/600/360",
+        "description": "Multispectral mapping for crop health analysis."
+      },
+      {
+        "title": "Inspection: Solar Farm",
+        "imageUrl": "https://picsum.photos/seed/solar/600/360",
+        "description": "Thermal and visual inspection workflows for PV arrays."
+      },
+      {
+        "title": "Training Bootcamp",
+        "imageUrl": "https://picsum.photos/seed/bootcamp/600/360",
+        "description": "On-site pilot training with simulator and flight hours."
+      }
+    ],
+    "testimonials": [
+      {
+        "client": "Ravi Patel",
+        "quote": "Sumit's training improved our operations safety drastically."
+      }
+    ],
+    "blog": [
+      {
+        "title": "5 Tips for Safer Drone Flights",
+        "summary": "Checklist and best practices for commercial drone operations."
+      }
+    ],
+    "contact": {
+      "message": "",
+      "email": "sumit.krishnan@example.com",
+      "phone": "+91 98765 43210"
+    },
+    "id": "54c92f60-5d93-4bed-88a2-2e2c4053f369",
+    "createdAt": "2025-09-09T09:01:14.330Z"
+  },
+  {
+    "template": "template2",
+    "hero": {
+      "name": "Ananya Rao",
+      "title": "Frontend Engineer & UX Designer",
+      "tagline": "Design-driven frontends that move users and metrics.",
+      "profileImageUrl": "https://picsum.photos/seed/ananya/400/400"
+    },
+    "about": {
+      "bio": "Frontend engineer focusing on performant React apps and usable interfaces. I help startups ship polished UIs and reusable component systems.",
+      "email": "ananya.rao@example.com",
+      "phone": "+1 415-555-0123",
+      "location": "San Francisco, CA",
+      "socials": {
+        "linkedin": "https://linkedin.com/in/ananya-ux",
+        "github": "https://github.com/ananya"
+      }
+    },
+    "skills": [
+      "React",
+      "TypeScript",
+      "Accessibility",
+      "UI Design",
+      "Performance"
+    ],
+    "services": [
+      {
+        "title": "UI / UX Design",
+        "description": "End-to-end product design from wireframes to final UI."
+      },
+      {
+        "title": "Frontend Engineering",
+        "description": "Scalable React apps with types and tests."
+      },
+      {
+        "title": "Design Systems",
+        "description": "Reusable components, tokens and documentation."
+      }
+    ],
+    "portfolio": [
+      {
+        "title": "Design System v2",
+        "imageUrl": "https://picsum.photos/seed/design/600/360",
+        "description": "Component library with accessible primitives."
+      },
+      {
+        "title": "B2B Dashboard",
+        "imageUrl": "https://picsum.photos/seed/dashboard/600/360",
+        "description": "High-performance metrics dashboard for enterprise."
+      },
+      {
+        "title": "Mobile Checkout Flow",
+        "imageUrl": "https://picsum.photos/seed/checkout/600/360",
+        "description": "Optimized checkout reducing drop-offs by 18%."
+      }
+    ],
+    "testimonials": [
+      {
+        "client": "Claire Wong",
+        "quote": "Ananya shipped a beautiful, usable dashboard—fast and with great code quality."
+      }
+    ],
+    "blog": [
+      {
+        "title": "Accessible Components: Practical Guide",
+        "summary": "How to build accessible React components and test them."
+      }
+    ],
+    "contact": {
+      "message": "",
+      "email": "ananya.rao@example.com",
+      "phone": "+1 415-555-0123"
+    },
+    "id": "9d59469b-0735-4809-be1b-79b9dd6857c2",
+    "createdAt": "2025-09-09T09:01:24.556Z"
+  }
+]
